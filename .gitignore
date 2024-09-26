@@ -1,0 +1,8 @@
+Country.columns
+League.columns
+Match.columns
+Player_Attributes.columns
+Player.columns
+sqlite_sequence.columns
+Team_Attributes.columns
+Team.columns
